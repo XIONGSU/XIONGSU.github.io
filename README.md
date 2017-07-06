@@ -20,8 +20,8 @@
 
 ## 视图
 
-![加载失败](https://xiongsu.github.io/img/backimg.PNG)    
-![加载失败](https://xiongsu.github.io/img/about.PNG)
+![加载失败](https://xiongsu.github.io/img/about.png)    
+![加载失败](https://xiongsu.github.io/img/backimg.png)
 
 See a [请移步](https://xiongsu.github.io/).
 
