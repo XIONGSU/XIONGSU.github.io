@@ -50,7 +50,7 @@ comments: true
 ##	[点击这个传送门](https://download.tortoisegit.org/tgit/)	
 ##	安装完小乌龟之后，在你的桌面的任意空白位置右键，你会看到多出来几个和小乌龟相关的菜单.  
 <figure>
-	<a href="http://damoqiongqiu.github.io/assets/img/jekyll-3/tortoise-menu.png"><img src="http://damoqiongqiu.github.io/assets/img/jekyll-3/tortoise-menu."></a>
+	<a href="http://damoqiongqiu.github.io/assets/img/jekyll-3/tortoise-menu.png"><img src="http://damoqiongqiu.github.io/assets/img/jekyll-3/tortoise-menu.png"></a>
 </figure>
 
 
@@ -121,83 +121,4 @@ comments: true
 ##	不信？去你的项目主页上刷新一下，确认一下刚才的内容有没有进来。
 ##	现在，你可以打开你的主页看看有没有内容，http://你刚才注册的名字.github.io
 ##当然，你也可以到项目的Settings菜单里面去设置一个theme（主题），然后刷新看看有没有效果。不过这个不重要，因为紧接下来我们会安装jekyll，到时候有更多样式可以选择。
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## KBD
-
-You can also use `<kbd>` tag for keyboard buttons.
-
-{% highlight html %}
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
-{% endhighlight %}
-
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+ #未完待续。。。。。。。。。。。。。。。。。。。
