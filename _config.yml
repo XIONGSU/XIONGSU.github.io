@@ -4,7 +4,7 @@ bio:                '苏雄--前端工程师|H5工程师'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'img/IMG_0807.png'
+logo:               'https://xiongsu.github.io/img/IMG_0807.PNG'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
