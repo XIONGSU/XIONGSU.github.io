@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "github+jekyll搭建个人博客"
+date:   2017-7-6
+excerpt: "github+jekyll搭建纯静态个人博客电脑小白也可以(*^__^*) 嘻嘻……."
 tag:
 - markdown 
 - syntax
@@ -12,11 +12,39 @@ tag:
 comments: true
 ---
 
-## HTML Elements
+## 下载安装git
+	
+#####  	什么是git？
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+#####  	卧槽，好吧…
 
-# Heading 1
+#####	git是一个“版本控制”工具。
+
+##### 	什么是版本控制？
+
+##### 	伙计，你看，这是一把菜刀对不对？它可以用来砍死你！
+
+#####	你自己去Google啊！
+
+##### 	那怎么装git呢？
+
+
+## [git传送门](https://git-scm.com/)
+#### 第一步 
+<figure>
+	<a href="https://xiongsu.github.io/img/gitone.png"><img src="https://xiongsu.github.io/img/gitone.png"></a>
+	<figcaption><a href="https://git-scm.com/" title="传送门">点击图片去往git</a>.</figcaption>
+</figure> 
+####	所有点击下一步即可完成安装.
+####	装好之后，打开你机器上的终端，Windows上叫“命令提示符”，在里面敲git试试，如果出现了这样的内容，说明安装成功了.
+<img src="http://damoqiongqiu.github.io/assets/img/jekyll-3/cmd-git.png">
+
+###	[点击这个传送门](https://download.tortoisegit.org/tgit/)	
+####	安装完小乌龟之后，在你的桌面的任意空白位置右键，你会看到多出来几个和小乌龟相关的菜单. 
+
+###	这就说明git和小乌龟都安装成功了！
+#### 第二步 
+##### 创建github账号
 
 ## Heading 2
 
