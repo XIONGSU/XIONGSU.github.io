@@ -33,11 +33,15 @@ comments: true
 ## 第一步 
 <figure>
 	<a href="https://xiongsu.github.io/img/gitone.png"><img src="https://xiongsu.github.io/img/gitone.png"></a>
-	<figcaption><a href="https://git-scm.com/" title="传送门">点击图片去往git</a>.</figcaption>
+	<figcaption><a href="https://git-scm.com/" title="传送门">点击这个去往git</a>.</figcaption>
 </figure> 
 ##	所有点击下一步即可完成安装.
-##	装好之后，打开你机器上的终端，Windows上叫“命令提示符”，在里面敲git试试，如果出现了这样的内容，说明安装成功了.
-<img src="http://damoqiongqiu.github.io/assets/img/jekyll-3/cmd-git.png">
+##	装好之后，打开你机器上的终端，Windows上叫“命令提示符”，在里面敲git试试，如果出现了这样的内容，说明安装成功了. 
+<figure>
+	<a href="http://damoqiongqiu.github.io/assets/img/jekyll-3/cmd-git.png"><img src="http://damoqiongqiu.github.io/assets/img/jekyll-3/cmd-git.png"></a>
+</figure>
+
+
 
 ##可是我不喜欢这样的命令行界面啊！
 
@@ -48,7 +52,7 @@ comments: true
 <img src="http://damoqiongqiu.github.io/assets/img/jekyll-3/tortoise-menu.png">
 ##	这就说明git和小乌龟都安装成功了！
 # 第二步 
-# 创建github账号
+# 创建github账号.
 ##这颗星球上有一个神奇的网站叫github，它是男人的乐园，女人的噩梦。这么好的网站，你一定想要一个账号对不对？
 <img src="http://damoqiongqiu.github.io/assets/img/jekyll-4/github-register.png">
 
