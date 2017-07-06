@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
+title: 帖子
 excerpt: "A List of Posts"
 comments: false
 ---

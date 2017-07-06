@@ -8,30 +8,30 @@ comments: false
     
 <center><a href="https://xiongsu.github.io/"><b>XIONGSU</b></a> .</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 特征
+* 1
+* 2
+* 3 3
+* 4 4
+* 55 5 5
+* 6 6
+* 7 7 7 7
+* 8
+* 9
+* 10
 
-## Preview
+## 预览
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://xiongsu.github.io/img/IMG_2339.JPG
+    https://xiongsu.github.io/img/IMG_2336.JPG
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="个人生活照片玉渊潭" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+请看 [gitHub](https://xiongsu.github.io/) XIONGSU项目下IMG文件.
 
-## Getting Started
+## 开始
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+To learn how to install and use this theme check out the [Setup Guide](https://xiongsu.github.io/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Moon](https://xiongsu.github.io/){: .btn}
