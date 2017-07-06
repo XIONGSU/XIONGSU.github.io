@@ -1,30 +1,19 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+ 
 
-**[XIONGSU](https://xiongsu.github.io/)** is a minimal, one column jekyll theme. 
+**[XIONGSU](https://xiongsu.github.io/)** 基于 Jekyll 搭建个人博客已完善. 
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 记录
+* 基础框架已完善
+* 该进
+* 加评论功能 
 
 ## 视图
 
 ![加载失败](https://xiongsu.github.io/img/about.png)    
 ![加载失败](https://xiongsu.github.io/img/backimg.png)
 
-See a [请移步](https://xiongsu.github.io/).
+请移步至个人博客 [请移步](https://xiongsu.github.io/).
 
-## Getting Started
+ 
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+  [苏雄个人博客](https://xiongsu.github.io/) .
