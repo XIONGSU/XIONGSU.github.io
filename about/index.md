@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="https://xiongsu.github.io/"><b>XIONGSU</b></a> .</center>
 
-## 特征
+## 个人业余
 * 推荐书籍
 ##	《美的历程》. 
 ##	《小王子》.
