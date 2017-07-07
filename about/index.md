@@ -27,7 +27,7 @@ comments: false
 	
 * 苦涩的暗恋
 {% capture images %}
-    https://xiongsu.github.io/img/IMG_psb.jpg
+    https://xiongsu.github.io/img/psb.jpg
  
 {% endcapture %}
 {% include gallery images=images caption="很快就在一起了(*^__^*) 嘻嘻……" cols=1 %}
