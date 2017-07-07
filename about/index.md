@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="https://xiongsu.github.io/"><b>XIONGSU</b></a> .</center>
 
-## 个人业余
+## 个人业余爱好
 * 推荐书籍
 ##	《美的历程》. 
 ##	《小王子》.
@@ -20,7 +20,12 @@ comments: false
 ##	《追风筝的人》.
 ##	《余华作品：活着（精装）》.
 ##	《草房子》.  
+* 爱好
 
+##  狼人杀爱好着
+###		喜欢玩狼 也喜欢玩平民 经常出没 回龙观东大街  生命科学园 
+### 	滑雪爱好者 
+###		平时周六日一般都在狼人杀吧 (*^__^*) 嘻嘻……
 ## 预览
 
 {% capture images %}
@@ -44,7 +49,7 @@ comments: false
 	https://xiongsu.github.io/img/IMG_0664.JPG
 	https://xiongsu.github.io/img/IMG_0665.JPG
 	https://xiongsu.github.io/img/IMG_0666.JPG
-	https://xiongsu.github.io/img/IMG_0667.JPG
+	https://xiongsu.github.io/img/IMG_0668.JPG
 	https://xiongsu.github.io/img/IMG_0674.JPG
 	https://xiongsu.github.io/img/IMG_0675.JPG
 	https://xiongsu.github.io/img/IMG_0695.JPG
