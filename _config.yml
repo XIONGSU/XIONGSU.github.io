@@ -1,7 +1,7 @@
 # Site
 title:              XIONGSU
 bio:                '苏雄--前端搬砖|H5搬砖'
-description:        "苏雄--前端搬砖|H5搬砖."
+description:        "苏雄--前端搬砖|H5搬砖"
 reading_time:       true
 words_per_minute:   200
 logo:               'https://xiongsu.github.io/img/IMG_0807.PNG'
@@ -24,10 +24,8 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
 # Comments
 disqus_shortname:   taylantatli
-
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -38,13 +36,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            XIONGSU
-facebook:           XIONGSU
+twitter:            SUXIONG0429
+facebook:           Xiong SU
 github-url:         XIONGSU
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          苏雄
+instagram:          Xiong SU
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
