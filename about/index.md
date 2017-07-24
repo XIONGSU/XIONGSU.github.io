@@ -24,11 +24,7 @@ comments: false
 ## 	 狼人杀爱好着
 ##	 喜欢玩狼 也喜欢玩平民 经常出没 回龙观东大街  生命科学园 
 ##	 滑雪爱好者 
-	
-* 苦涩的暗恋
-{% capture images %}
-    https://xiongsu.github.io/img/psb.jpg
- 
+	 
 {% endcapture %}
 {% include gallery images=images caption="很快就在一起了(*^__^*) 嘻嘻……" cols=1 %}
 ##	 平时周六日一般都在狼人杀吧 (*^__^*) 嘻嘻……
