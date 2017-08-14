@@ -28,6 +28,8 @@ comments: false
 ##	 平时周六日一般都在狼人杀吧 (*^__^*) 嘻嘻……
 ## 预览
 
+
+
 {% capture images %}
     https://xiongsu.github.io/img/IMG_2339.JPG
     https://xiongsu.github.io/img/IMG_2338.JPG
